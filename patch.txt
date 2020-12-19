@@ -1,8 +1,0 @@
-diff --git a/New Text Document1.txt b/New Text Document1.txt
-deleted file mode 100644
-index ea4a541..0000000
---- a/New Text Document1.txt	
-+++ /dev/null
-@@ -1 +0,0 @@
--Anjaneya
-\ No newline at end of file
